@@ -19,3 +19,5 @@ desc 'seed the database with some dummy data'
    require_relative './db/seeds.rb'
  end
 end
+
+end
